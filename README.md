@@ -4,7 +4,7 @@
 
 Pick Path Optimization is an innovative solution designed to streamline and enhance the efficiency of picking processes in warehouse environments. This project combines advanced algorithms and a user-friendly interface to optimize the path taken by workers during the picking process, reducing time and increasing productivity.
 
-![Optimization Process](#placeholder-for-optimization-process-image)
+![Optimization Process](photos/photo1.png)
 
 ## Features
 
@@ -12,7 +12,8 @@ Pick Path Optimization is an innovative solution designed to streamline and enha
 - **Interactive Frontend Interface**: A React-based frontend that allows users to input parameters and visualize optimized pick paths.
 - **Data-Driven Insights**: Employs data analysis to improve path optimization over time, adapting to different warehouse layouts and item placements.
 
-![User Interface](#placeholder-for-user-interface-image)
+![Path Optimization Algorithms](photos/photo2.png)
+![Path Optimization Algorithms](photos/photo3.png)
 
 ## Technology Stack
 
@@ -51,7 +52,8 @@ Pick Path Optimization is an innovative solution designed to streamline and enha
 
 3. Access the web interface at `http://localhost:3000` (or the port specified) to input parameters and view optimized pick paths.
 
-![Workflow Demonstration](#placeholder-for-workflow-demonstration-image)
+![Workflow Demonstration](photos/photo4.png)
+![Workflow Demonstration](photos/photo5.png)
 
 ## Contributing
 
