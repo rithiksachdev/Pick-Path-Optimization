@@ -1,0 +1,91 @@
+.customSlider {
+    /* max width of your slider */
+    max-width: 500px;
+    /* Optional: Only If you want to center your slider in the page */
+    margin: auto;
+  }
+
+  body{
+    background-color: transparent;
+    background: transparent;
+  }
+  
+  input:hover{
+    background: transparent !important;
+    background-color: transparent !important;
+  }
+  .customSlider-track {
+    /* Top value to align your track to the center of your thumb */
+    top: 8px;
+    /* thickness of the track */
+    height: 4px;
+   /* default color of your track */
+    background: var(--track-color);
+  }
+  
+  
+  .customSlider-track.customSlider-track-0 {
+    /* color of the track before the thumb */
+    background: var(--main-color);
+  }
+  .MuiFormLabel-root{
+    background-color: transparent;
+  }
+  .customSlider-thumb {
+    cursor: grab;
+    /*color for the thumb */
+    background: black;
+    color: #ffaed0;
+    /* shape of the thumb: circle */
+    width: 40px;
+    height: 30px;
+    line-height: 25px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 1em;
+    /* remove default outline when selected */
+    outline: none;
+  }
+  
+  .customSlider-thumb:hover {
+    box-shadow: 0 0 0 8px var(--main-color-hover);
+  }
+  /* .customSlider-mark {
+    cursor: pointer;
+    top: 6px;
+    width: 1.5px;
+    height: 8px;
+    background-color: var(--mark-color);
+  } */
+  
+  /* .customSlider-mark.customSlider-mark-before {
+    background-color: var(--main-color);
+  }
+  
+  
+  .customSlider-mark.customSlider-mark-active {
+    display: none;
+  } */
+
+  .MuiSlider-thumb, .PrivateValueLabel-circle-6{
+    background-color: #2f91d5 !important;
+  }
+
+  input{
+    background: transparent;
+    background-color: transparent;
+  }
+  .offset-bottom-right-shadow {
+    box-shadow: 5px 5px 10px;
+  }
+  .box {
+    width: 80%;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 30px;
+    padding-bottom: 100px;
+    padding-top: 10px;
+    background-color: transparent;
+    color:  transparent;
+    vertical-align: middle;
+  }
